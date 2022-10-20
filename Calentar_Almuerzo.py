@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 19 08:20:14 2022
 
-@author: uiad.analisis
+@author: Gabriel Santiago Belevan
 """
 
 import numpy as np
